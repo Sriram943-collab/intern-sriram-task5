@@ -19,7 +19,7 @@ Implemented and tested all four types of SQL joins:
 ## Deliverables:
 - SQL file with CREATE, INSERT, and JOIN queries.
 - README explaining the task and approach.
-- Screenshot folder (if required, can be added after running queries visually).
+
 
 ## Outcome:
 Gained practical understanding of SQL joins and their results.
